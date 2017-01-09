@@ -1,0 +1,83 @@
+{
+  "itemName" : "TalonRifle",
+  "price" : 960,
+  "inventoryIcon" : "TalonRifle.png",
+  "maxStack" : 1000,
+  "rarity" : "legendary",
+  "description" : "A standard issue rifle from ^#ffec00;T^#f8e60d;a^#f0df1a;l^#e9d927;o^#e1d234;n ^#d2c54e;c^#cabe5b;o^#c2b768;m^#bbb175;p^#b3aa82;a^#aba38f;n^#a49d9c;y^reset;",
+  "shortdescription" : "^#ffec00;T^#f8e60d;a^#f0df1a;l^#e9d927;o^#e1d234;n ^#d2c54e;c^#cabe5b;o^#c2b768;m^#bbb175;p^#b3aa82;a^#aba38f;n^#a49d9c;y^reset; Rifle",
+  "level" : 1,
+  "tooltipKind" : "gun",
+  "weaponType" : "Assault Rifle",
+  "itemTags" : ["weapon","ranged","assaultrifle"],
+  "twoHanded" : true,
+  
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "TalonRifle.png",
+    "barrel" : "",
+    "muzzleFlash" : "/animations/muzzleflash/avalielectromuzzle/avalielectromuzzle.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/gun/ar1.ogg" ]
+    }
+  },
+
+  "baseOffset" : [-0.1, -0.3],
+  "muzzleOffset" : [1.2, 0.9],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "electric",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+    "fireTime" : 0.06,
+    "baseDps" : 10.5,
+    "energyUsage" : 11.0,
+    "projectileCount" : 1,
+    "inaccuracy" : 0.02,
+      "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 1,
+        "weaponRotation" : 1,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.1,
+        "armRotation" : 1,
+        "weaponRotation" : 1,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    },
+
+    "fireType" : "auto",
+
+    "projectileType" : "railgun1",
+    "projectileParameters" : { 
+      "knockback" : 6
+    }
+  },
+
+  "altAbilityType" : "explosiveshot",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

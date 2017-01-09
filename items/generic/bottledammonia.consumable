@@ -1,0 +1,21 @@
+{
+  "itemName" : "bottledammonia",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "medicine",
+  "inventoryIcon" : "bottledammonia.png",
+  "description" : "Liquid ammonia. Avali might like it for a quick drink",
+  "shortdescription" : "Bottled ammonia",
+  "maxStack" : 1000,
+  "effects" : [ [
+    {
+      "effect" : "ammoniahealing",
+      "duration" : 30
+    }
+  ] ],
+  "blockingEffects" : [
+    "healingwater"
+  ],
+  "emote" : "",
+  "emitters" : [ "drinkinghealing" ]
+}

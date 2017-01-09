@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalicontainer1", "count" : 1 },
+    { "item" : "purpledye", "count" : 1 }  
+  ],
+  "output" : { "item" : "avalicontainer1purple", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "storage", "colorizer", "all" ]
+}

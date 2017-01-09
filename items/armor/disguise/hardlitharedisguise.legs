@@ -1,0 +1,17 @@
+{
+  "itemName" : "hardlitharedisguise",
+  "price" : 2500,
+  "inventoryIcon" : "assetmissing.png",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "legwear",
+  "description" : "a Hardlight hare diguise",
+  "shortdescription" : "Hardlight Hare disguise",
+  "tooltipKind" : "armor",
+  "hideBody" : true,
+
+  "maleFrames" : "pantsD.png",
+  "femaleFrames" : "pantsD.png"
+
+  
+}

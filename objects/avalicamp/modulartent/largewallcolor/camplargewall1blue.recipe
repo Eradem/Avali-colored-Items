@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "camplargewall1", "count" : 1 },
+    { "item" : "bluedye", "count" : 1 }
+  ],
+  "output" : { "item" : "camplargewall1blue", "count" : 1 },
+  "groups" : [ "tentpieces", "colorizer", "all" ]
+}

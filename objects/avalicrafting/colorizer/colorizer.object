@@ -1,0 +1,42 @@
+{
+  "objectName" : "colorizer",
+  "colonyTags" : [ "avali", "avalicamp", "crafting" ], 
+  "printable" : true,
+  "rarity" : "Uncommon",
+  "category" : "crafting",
+  "price" : 100,
+  
+  "description" : "A specialised coloring station. Looks like a 5 year old designed it.",
+  "shortdescription" : "^#ba2da2;A^#a42f61;v^#7e1955;a^#52d4c7;l^#53a8fe;i ^#cf9425;C^#114c5e;o^#7e51e9;l^#375a2c;o^#e24901;r^#8714fc;i^#197fc3;z^#cb42e3;e^#2cfd41;r^reset;",
+  "race" : "avali",
+  
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/colorizer.config",
+    "filter" : [ "colorizer" ]
+  },
+
+  "apexDescription" : "Oh my! I absolutely must study this some time.",
+  "avianDescription" : "I've never seen anything like it!",
+  "floranDescription" : "Floaty brick is floaty.",
+  "glitchDescription" : "Observation. By using a mixture of prefabricated feedstock and pixels this printer is 900% more efficient.",
+  "humanDescription" : "Well, the Avali certainly didn't get this technology from us...",
+  "hylotlDescription" : "Well, it does save one getting their hands dirty, I suppose.",
+  "avaliDescription" : "The amazeing technicolor crafting bench! AKA the colorizer.",
+  "novakidDescription" : "How intriguing, seems like a type of 3D printer.",
+
+  "inventoryIcon" : "avalilatheicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "colorizer.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 6,
+      "animationCycle" : 0.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

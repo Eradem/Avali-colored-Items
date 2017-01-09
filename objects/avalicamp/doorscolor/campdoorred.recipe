@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "campdoor", "count" : 1 },
+	{ "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "campdoorred", "count" : 1 },
+  "groups" : [ "lights", "colorizer", "all" ]
+}

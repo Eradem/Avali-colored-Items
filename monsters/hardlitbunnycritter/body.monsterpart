@@ -1,0 +1,9 @@
+{
+  "name" : "hardlitbunnycritter",
+  "category" : "hardlitbunnycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

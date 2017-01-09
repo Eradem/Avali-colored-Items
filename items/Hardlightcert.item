@@ -1,0 +1,9 @@
+{
+  "itemName" : "Hardlightcert",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "certificate.png",
+  "price" : 500000000,
+  "image" : "certificate.png",
+  "description" : "A certificate of ownership of a Hardlight necklace.",
+  "shortdescription" : "Hardlight Certificate"
+}
