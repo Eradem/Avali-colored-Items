@@ -5,4 +5,4 @@ Original mod- RyuujinnZERO on Starbound Forums: http://community.playstarbound.c
 
 Avali triage race mod found here http://steamcommunity.com/workshop/filedetails/?id=729558042
 
-Owners of this mod are: Eradem/mikypoo and Ferrox
+Owners of this mod are: Eradem/mikypoo on steam and Ferroxix/Ferrox on steam
