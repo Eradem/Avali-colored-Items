@@ -1,0 +1,14 @@
+{
+  "itemName" : "liquidammonia",
+  "rarity" : "Common",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidammoniaicon.png",
+  "shortdescription" : "liquid ammonia",
+  "description" : "Liquid ammonia. must smell like avali.",
+
+  "liquid" : "liquidammonia",
+  
+  "learnBlueprintsOnPickup" : [
+    "bottledammonia"
+  ]
+}

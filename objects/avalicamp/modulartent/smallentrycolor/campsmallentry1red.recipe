@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "campsmallentry1", "count" : 1 },
+    { "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "campsmallentry1red", "count" : 1 },
+  "groups" : [ "tentpieces", "colorizer", "all" ]
+}

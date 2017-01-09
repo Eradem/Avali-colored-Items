@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalichest1", "count" : 1 },
+    { "item" : "whitedye", "count" : 1 }  
+  ],
+  "output" : { "item" : "avalichest1white", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "storage", "colorizer", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalikitchencupboard", "count" : 1  },
+	{ "item" : "purpledye", "count" : 1  }
+  ],
+  "output" : { "item" : "avalikitchencupboardpurple", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "storage", "colorizer", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalikitchenstove", "count" : 1  },
+    { "item" : "greendye", "count" : 1  }  
+  ],
+  "output" : { "item" : "avalikitchenstovegreen", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "craftingstations", "colorizer", "all" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "camplargeentry1", "count" : 1 },
+    { "item" : "purpledye", "count" : 1 }
+  ],
+  "output" : { "item" : "camplargeentry1purple", "count" : 1 },
+  "groups" : [ "tentpieces", "colorizer", "all" ]
+}

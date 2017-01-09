@@ -1,0 +1,59 @@
+{
+  "id" : "Hardlightagreement",
+  "title" : "Hardlight agreement", 
+  "description" : "The terms and conditions for the use of Hardlight Necklaces.",
+  "icon" : "Hardlight.png",
+  "contentPages" : [
+    "Terms and Conditions
+--------------------
+
+Any and all of these rules can be deactivated by Ki and/or Nezan if they so wish to or desire, 
+or need to. The makers reserve the right to change the rules as they see fit including but not
+limited to; altering the rules, removing existing rules and adding new rules.",
+
+	"Rule 1. People cannot use the device to cause deliberate harm to anyone. (This excludes creatures
+like gleaps).
+
+Rule 2. No using this device to steal from others; this includes but is not limited to your
+friends; however, creatures such as gleaps are excluded from this. ",
+
+  "Rule 3. You cannot exploit this device in order to attempt to amass power or tamper with its
+working systems. Penalty for this includes immediate deactivation. 
+
+Rule 4. You cannot hack or alter any part of this device under any different law or jurisdiction
+including exploitation and using it for personal gain; which includes but is not limited to, 
+stealing the technology for nefarious purposes or for trying to gain market position.",
+
+  "Rule 5. You may not use this device to break the law of the place you are at in any way 
+so long as it is unlawful; this kind of behaviour includes but is not limited to: murder, 
+stealing, theft, abusing its power to gain control of others. 
+
+Rule 6. The makers of this device; reserve the right to deactivate your device at any time, should
+they please; regardless of your use of the device or if you have broken any of these rules or
+not. The makers have the full decision to do what they wish with your device. The makers are: 
+Ki and Nezan. ",
+
+  "Exemption Clause: The makers and the device are not responsible for any ill action, bodily harm,
+or law breaking tendencies from any of its users; and are also not responsible for any damage
+done including but not limited to equipment, facilities, and otherwise. If any rule breaking is
+caught and a device is not deactivated, and you wish the device was deactivated; please contact
+the makers. Note: Proof is required for this, and must be a severe breach of one or more of the
+rules to qualify for potential deactivation. Plus the biometric system will prevent them using
+any further such hardlight device until the ban has been lifted; or their original device has
+been re-activated.",
+
+
+"Depending on severeity of the rules broken, there can be immediate deactivation of the device;
+reactivation fees apply, and you must meet the makers or institution or company selling them in 
+order to get it reset. The fee is at standard rate of 1 or 2 very pure solarium stars; these 
+stars will be sent to the makers. Note: Any institution or company mishandling or breaching the
+terms of their contract with the device including but not limited to abusing the aforementioned 
+rules will no longer be a registered seller of the device, and all of their new or in stock 
+devices will be deactivated; not including those already owned by people."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

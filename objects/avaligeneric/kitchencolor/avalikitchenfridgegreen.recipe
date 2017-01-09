@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalikitchenfridge", "count" : 1  },
+    { "item" : "greendye", "count" : 1  }    
+  ],
+  "output" : { "item" : "avalikitchenfridgegreen", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "storage", "colorizer", "all" ]
+}

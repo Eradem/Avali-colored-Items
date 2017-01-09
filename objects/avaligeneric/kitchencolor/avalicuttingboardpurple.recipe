@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalicuttingboard", "count" : 1  },
+    { "item" : "purpledye", "count" : 1  }  
+  ],
+  "output" : { "item" : "avalicuttingboardpurple", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "craftingstations", "colorizer", "all" ]
+}

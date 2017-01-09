@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "avalikitchendrawers", "count" : 1  },
+	{ "item" : "orangedye", "count" : 1  }
+	
+  ],
+  "output" : { "item" : "avalikitchendrawersorange", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "storage", "colorizer", "all" ]
+}

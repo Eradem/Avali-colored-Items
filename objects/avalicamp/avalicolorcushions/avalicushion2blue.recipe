@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "avalicushion2", "count" : 1 },
+  { "item" : "bluedye", "count" : 1 }
+  ],
+  "output" : { "item" : "avalicushion2blue", "count" : 1 },
+  "groups" : [ "lights", "colorizer", "all" ]
+}
