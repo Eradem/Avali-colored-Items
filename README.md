@@ -4,3 +4,5 @@ Avali colored items mod; the idea is to fix the unused assets in the avali mod t
 Original mod- RyuujinnZERO on Starbound Forums: http://community.playstarbound.com/resources/avali-race-mod.998/  
 
 Avali triage race mod found here http://steamcommunity.com/workshop/filedetails/?id=729558042
+
+Owners of Avali colored Items mod are: Eradem/mikypoo and Ferrox
