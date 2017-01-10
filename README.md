@@ -1,5 +1,6 @@
 # Avali-colored-Items
-Avali colored items mod for starbound; the idea is to fix the unused assets in the avali mod to be usable. The assets from the avali mod are not ours and this repository and the mod will be removed upon request of the avali triage mod owners and that of RyuujinnZERO. 
+Avali colored items mod for starbound; the idea is to fix the unused assets in the avali mod to be usable. The assets from the avali mod are not ours and this repository and the mod will be removed upon request of the avali triage mod owners and that of RyuujinnZERO.  Recent additions is  we fixed the mod so that you can craft the avali colorizer with empty hands.
+ 
 
 Original mod- RyuujinnZERO on Starbound Forums: http://community.playstarbound.com/resources/avali-race-mod.998/  
 
