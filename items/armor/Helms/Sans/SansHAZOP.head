@@ -1,6 +1,6 @@
 {
   "itemName" : "SansHAZOP",
-  "inventoryIcon" : "icons.png:head",
+  "inventoryIcon" : "icon.png:head",
   "maxStack" : 1,
   "category" : "headwear",
   "price" : 200,
