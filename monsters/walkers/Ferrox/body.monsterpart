@@ -1,0 +1,9 @@
+{
+  "name" : "Ferrox",
+  "category" : "Ferrox",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "Ferrox.png"
+  }
+}
