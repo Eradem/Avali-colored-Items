@@ -1,0 +1,7 @@
+[{"op":"add",
+"path":"/collectibles",
+"value":{"Ferrox":{
+"order" : 58,
+"monsterType" : "Ferrox",
+"icon" : "/monsters/walkers/Ferrox/Ferrox.png:idle.4"}}}
+]
