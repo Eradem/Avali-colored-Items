@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "avaliribbon1", "count" : 1 },
+    { "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "avaliribbon1red", "count" : 1 },
+  "groups" : [ "materials", "colorizer", "all" ]
+}
