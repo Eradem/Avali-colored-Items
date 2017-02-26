@@ -1,0 +1,41 @@
+{
+  "objectName" : "chest-o-tunes(HOG)",
+  "colonyTags" : [ "avali", "avalicamp", "storage" ], 
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 50,
+  "printable" : false,  
+  "description" : "Someone sucking a hog?",
+  "shortdescription" : "Chest-o-tunes",
+  "race" : "avali",
+  "retainObjectParametersInItem" : false,   
+
+  "apexDescription" : "Someone sucking a hog?",
+  "avianDescription" : "Someone sucking a hog?",
+  "floranDescription" : "Someone sucking a hog?",
+  "glitchDescription" : "Someone sucking a hog?",
+  "humanDescription" : "Someone sucking a hog?",
+  "hylotlDescription" : "Someone sucking a hog?",
+  "avaliDescription" : "Someone sucking a hog?",
+  
+  "inventoryIcon" : "avalichest1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "avalichest1red.png:<color>.<key>",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+    "collision" : "platform"
+    }
+  ],
+
+    "openSounds" : [ "/objects/avaligeneric/HOG.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

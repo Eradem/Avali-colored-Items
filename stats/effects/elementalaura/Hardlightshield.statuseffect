@@ -1,0 +1,12 @@
+{
+  "name" : "Hardlightshield",
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "elementalaura.lua"
+  ],
+  "effectConfig" : {
+  },
+
+  "animationConfig" : "Hardlightshield.animation"
+}
