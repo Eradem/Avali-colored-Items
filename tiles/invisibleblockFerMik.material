@@ -1,0 +1,22 @@
+{
+  "materialId" : 9998,
+  "materialName" : "invisibleblockFerMik",
+  "particleColor" : [0, 0, 0, 255],
+  "itemDrop" : "invisibleblockFerMik",
+  "description" : "Invisible Block",
+  "shortdescription" : "Invisible Block",
+  "glitchDescription" : "Statement. Invisible Block",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 999999999999,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "invisibleblockFerMik.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "multiColored" : false,
+    "occludesBelow" : false,
+    "zLevel" : 9999
+  }
+}

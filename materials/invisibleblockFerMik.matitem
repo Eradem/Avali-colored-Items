@@ -1,0 +1,13 @@
+{
+  "itemName" : "invisibleblockFerMik",
+  "rarity" : "Common",
+  "price" : 5,
+  "inventoryIcon" : "invisibleblockFerMik.png",
+  "description" : "Invisible Block",
+  "shortdescription" : "Invisible Block",
+  "glitchDescription" : "Statement. Invisible Block",
+
+  "materialId" : 9998,
+  "itemTags" : [ "Block" ],
+  "category" : "block"
+}
