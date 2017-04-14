@@ -1,0 +1,26 @@
+{
+  "itemName" : "Nezhammer",
+  "price" : 0,
+  "inventoryIcon" : "Nezhammericon.png",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Nezan's hammer super powered. [Can break certain special blocks]",
+  "shortdescription" : "Nezan's hammer",
+  "tooltipKind" : "tool",
+  "largeImage" : "Nezhammerbig.png",
+
+  "image" : "Nezhammer.png",
+  "handPosition" : [0, 0],
+  "fireTime" : 0.01,
+  "swingStart" : -40,
+  "swingFinish" : 60,
+  "blockRadius" : 7,
+  "altBlockRadius" : 1,
+  "tileDamageType" : "blockish",
+  "tileDamage" : 1000000000000.0,
+  "tileDamageBlunted" : 1.0,
+  "harvestLevel" : 0,
+  "twoHanded" : true,
+  "strikeSounds" : [ "/sfx/tools/pickaxe_hit.ogg" ],
+  "durability" : 10000000000000
+}
