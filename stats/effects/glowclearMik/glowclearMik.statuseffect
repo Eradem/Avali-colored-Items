@@ -1,0 +1,14 @@
+{
+  "name" : "glowclearMik",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "glowclearMik.lua"
+  ],
+
+  "animationConfig" : "glowclearMik.animation",
+
+  "label" : "Glow",
+  "icon" : "/interface/statuses/glow.png"
+}
