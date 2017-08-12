@@ -1,0 +1,15 @@
+{
+  "name" : "glowreddishMik",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+"scripts" : [
+    "/stats/effects/glow/glow.lua"
+  ],
+
+
+  "animationConfig" : "glowreddishMik.animation",
+
+  "label" : "Glow",
+  "icon" : "/interface/statuses/glow.png"
+}
