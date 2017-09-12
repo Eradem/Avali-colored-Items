@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "avaliaerogellight", "count" : 1 },
+    { "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "avaliaerogellightred", "count" : 1 },
+  "groups" : [ "materials", "colorizer", "all" ]
+}

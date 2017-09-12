@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "avalihologramsml1", "count" : 1 },
+    { "item" : "purpledye", "count" : 1 }
+  ],
+  "output" : { "item" : "avalihologramsml1purple", "count" : 1 },
+  "groups" : [ "materials", "colorizer", "all" ]
+}

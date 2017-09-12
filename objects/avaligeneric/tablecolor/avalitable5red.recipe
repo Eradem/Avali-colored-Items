@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalitable5", "count" : 1 },
+	{ "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "avalitable5red", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "decoration", "colorizer", "all" ]
+}

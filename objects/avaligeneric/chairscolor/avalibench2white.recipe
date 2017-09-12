@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalibench2", "count" : 1  },
+    { "item" : "whitedye", "count" : 1  }  
+  ],
+  "output" : { "item" : "avalibench2white", "count" : 1 },
+  "duration" : 0.1,
+ "groups" : [ "decoration", "colorizer", "all" ]
+}

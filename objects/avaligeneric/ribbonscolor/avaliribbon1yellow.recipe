@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "avaliribbon1", "count" : 1 },
-    { "item" : "blackdye", "count" : 1 }
+    { "item" : "yellowdye", "count" : 1 }
   ],
   "output" : { "item" : "avaliribbon1black", "count" : 1 },
   "groups" : [ "materials", "colorizer", "all" ]

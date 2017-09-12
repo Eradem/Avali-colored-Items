@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalibench2long", "count" : 1  },
+    { "item" : "bluedye", "count" : 1  }  
+  ],
+  "output" : { "item" : "avalibench2longblue", "count" : 1 },
+  "duration" : 0.1,
+ "groups" : [ "decoration", "colorizer", "all" ]
+}
