@@ -9,7 +9,7 @@
   "price" : 50,
   "printable" : false,  
   "description" : "A small, easily transported storage unit.",
-  "shortdescription" : "Avali Chest 'purple;",
+  "shortdescription" : "Avali Chest 'purple'",
   "race" : "avali",
   "retainObjectParametersInItem" : false,   
 
