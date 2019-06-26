@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "avalidreamcatcher1", "count" : 1 },
+	{ "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "avalidreamcatcher1red", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "decoration", "colorizer", "all" ]
+}
