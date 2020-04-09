@@ -1,3 +1,11 @@
 [
-  {"op":"add","path":"/defaultBlueprints/tier1/0","value":{ "item" : "colorizer" }}
+  {"op":"add","path":"/defaultBlueprints/tier1/0","value":{ "item" : "colorizer" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "avaliscientistarms9chest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "avaliscientistarmsfcoverset9chest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "cloakarmsfcoverset5chest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "cloakarmsset5chest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "cloakarmsfcoverset5bchest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "cloakarmsset5bchest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "cloakarmsfcoverset5cchest" }},
+  {"op":"add","path":"/defaultBlueprints/tier1/4","value":{ "item" : "cloakarmsset5cchest" }}
 ]
