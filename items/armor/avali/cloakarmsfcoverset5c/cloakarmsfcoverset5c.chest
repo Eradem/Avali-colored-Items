@@ -1,6 +1,6 @@
 {
   "itemName" : "cloakarmsfcoverset5cchest",
-  "inventoryIcon" : "icons.png:chest",
+  "inventoryIcon" : "icons.png",
   "maxStack" : 1,
   "price" : 20,
   "rarity" : "Common",
